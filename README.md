@@ -71,7 +71,7 @@ The Flask app allows users to input a message and get an instant classification.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/spam-detection-flask.git
+git clone https://github.com/UDLHS/spam_detection_project.git
 cd spam-detection-flask
 ```
 
