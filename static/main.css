@@ -1,0 +1,27 @@
+
+body {
+    background-color: #ebebeb;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form-box {
+    width: 400px;
+    padding: 30px;
+    background-color: #ffffff;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+textarea {
+    width: 100%;
+    height: 200px;
+    resize: none;
+}
+
+
+
+
+
+
+
